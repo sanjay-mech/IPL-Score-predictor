@@ -8,10 +8,10 @@ Welcome to the IPL Score Prediction Machine Learning Project! This project aims 
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Model Training](#model-training)
-6. [Deployment](#deployment)
-7. [Contributing](#contributing)
-8. [License](#license)
+
+5. [Deployment](#deployment)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Introduction
 
