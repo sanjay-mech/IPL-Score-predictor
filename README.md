@@ -1,3 +1,6 @@
+# checkout output here
+ [IPL SCORE PREDICTOR](https://ipl-score-predictor-tud5.onrender.com/)
+
 # IPL Score Prediction Machine Learning Project
 
 Welcome to the IPL Score Prediction Machine Learning Project! This project aims to predict the scores of IPL (Indian Premier League) cricket matches using machine learning techniques. By leveraging historical data from previous matches, this predictor can estimate the score of an ongoing or upcoming IPL match. The project has been deployed using Streamlit, allowing users to interact with the predictor through a user-friendly web interface.
