@@ -18,7 +18,7 @@ cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
        'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
        'Sharjah', 'Mohali', 'Bengaluru']
 
-pipe = pickle.load(open(r'C:\Users\Dell\OneDrive\Desktop\ipl\pipe.pkl','rb'))
+pipe = pickle.load(open(pipe.pkl','rb'))
 st.title('IPL Win Predictor')
 
 col1, col2 = st.columns(2)
